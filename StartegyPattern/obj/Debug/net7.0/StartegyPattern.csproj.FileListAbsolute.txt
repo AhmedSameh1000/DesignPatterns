@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\bin\Debug\net7.0\StartegyPattern.exe
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\bin\Debug\net7.0\StartegyPattern.deps.json
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\bin\Debug\net7.0\StartegyPattern.runtimeconfig.json
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\bin\Debug\net7.0\StartegyPattern.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\bin\Debug\net7.0\StartegyPattern.pdb
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\refint\StartegyPattern.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.pdb
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\StartegyPattern.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StartegyPattern\obj\Debug\net7.0\ref\StartegyPattern.dll

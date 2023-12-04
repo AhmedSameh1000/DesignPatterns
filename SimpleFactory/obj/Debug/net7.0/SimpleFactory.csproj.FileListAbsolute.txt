@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\bin\Debug\net7.0\SimpleFactory.exe
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\bin\Debug\net7.0\SimpleFactory.deps.json
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\bin\Debug\net7.0\SimpleFactory.runtimeconfig.json
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\bin\Debug\net7.0\SimpleFactory.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\bin\Debug\net7.0\SimpleFactory.pdb
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\refint\SimpleFactory.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.pdb
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\SimpleFactory\obj\Debug\net7.0\ref\SimpleFactory.dll

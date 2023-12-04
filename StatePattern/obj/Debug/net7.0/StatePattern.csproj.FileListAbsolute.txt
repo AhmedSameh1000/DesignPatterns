@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\bin\Debug\net7.0\StatePattern.exe
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\bin\Debug\net7.0\StatePattern.deps.json
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\bin\Debug\net7.0\StatePattern.runtimeconfig.json
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\bin\Debug\net7.0\StatePattern.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\bin\Debug\net7.0\StatePattern.pdb
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\refint\StatePattern.dll
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.pdb
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\StatePattern.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DesignPatern\SingleTon\StatePattern\obj\Debug\net7.0\ref\StatePattern.dll
